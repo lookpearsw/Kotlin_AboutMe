@@ -14,7 +14,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
-            style="@style/NameStyle"/>
+            style="@style/NameStyle"
+            android:background="@color/colorName"
+            android:paddingBottom="@dimen/small_padding"/>
     <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

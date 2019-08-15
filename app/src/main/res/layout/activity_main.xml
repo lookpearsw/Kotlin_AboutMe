@@ -13,5 +13,5 @@
             android:id="@+id/name_text"
             android:textSize="20sp"
             android:textColor="@android:color/black"
-            android:textAlignment="center"/>
+            android:textAlignment="center" android:fontFamily="@font/roboto"/>
 </LinearLayout>
